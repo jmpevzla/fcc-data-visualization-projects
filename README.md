@@ -13,3 +13,8 @@ My solution projects of the Data Visualization Course
 
 <a href="https://codepen.io/jmaperez/full/eYRNMNY"><img src="https://user-images.githubusercontent.com/87162909/131070971-dfff1aa6-f99b-4017-974e-c5c25b45710f.png" width="500"></a>
 
+4.- **Visualize Data with a Choropleth Map**
+
+<a href="https://codepen.io/jmaperez/full/NWgxMpQ"><img src="https://user-images.githubusercontent.com/87162909/131434727-8aa339a6-0d77-4acb-91b2-06255da4463c.png" width="500"></a>
+
+
