@@ -17,4 +17,8 @@ My solution projects of the Data Visualization Course
 
 <a href="https://codepen.io/jmaperez/full/NWgxMpQ"><img src="https://user-images.githubusercontent.com/87162909/131434727-8aa339a6-0d77-4acb-91b2-06255da4463c.png" width="500"></a>
 
+5.- **Visualize Data with a Treemap Diagram**
+
+<a href="https://codepen.io/jmaperez/full/zYzqQJa"><img src="https://user-images.githubusercontent.com/87162909/131787452-14d6b350-aff5-4854-9fd9-404bff6eb545.png" width="500"></a>
+
 
